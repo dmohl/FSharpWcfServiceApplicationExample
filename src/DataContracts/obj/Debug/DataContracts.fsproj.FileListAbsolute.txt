@@ -1,6 +1,0 @@
-C:\git\FSharpWcfServiceApplicationTemplate\src\DataContracts\bin\Debug\DataContracts.XML
-C:\git\FSharpWcfServiceApplicationTemplate\src\DataContracts\bin\Debug\DataContracts.dll
-C:\git\FSharpWcfServiceApplicationTemplate\src\DataContracts\bin\Debug\DataContracts.pdb
-C:\git\FSharpWcfServiceApplicationTemplate\src\DataContracts\obj\Debug\ResolveAssemblyReference.cache
-C:\git\FSharpWcfServiceApplicationTemplate\src\DataContracts\obj\Debug\DataContracts.dll
-C:\git\FSharpWcfServiceApplicationTemplate\src\DataContracts\obj\Debug\DataContracts.pdb

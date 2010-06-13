@@ -1,0 +1,12 @@
+C:\git\FSharpWcfServiceApplicationTemplate\src\DataContracts\bin\Debug\Contracts.XML
+C:\git\FSharpWcfServiceApplicationTemplate\src\DataContracts\bin\Debug\Contracts.dll
+C:\git\FSharpWcfServiceApplicationTemplate\src\DataContracts\bin\Debug\Contracts.pdb
+C:\git\FSharpWcfServiceApplicationTemplate\src\DataContracts\obj\Debug\ResolveAssemblyReference.cache
+C:\git\FSharpWcfServiceApplicationTemplate\src\DataContracts\obj\Debug\Contracts.dll
+C:\git\FSharpWcfServiceApplicationTemplate\src\DataContracts\obj\Debug\Contracts.pdb
+C:\git\FSharpWcfServiceApplicationTemplate\src\Contracts\bin\Debug\Contracts.XML
+C:\git\FSharpWcfServiceApplicationTemplate\src\Contracts\bin\Debug\Contracts.dll
+C:\git\FSharpWcfServiceApplicationTemplate\src\Contracts\bin\Debug\Contracts.pdb
+C:\git\FSharpWcfServiceApplicationTemplate\src\Contracts\obj\Debug\ResolveAssemblyReference.cache
+C:\git\FSharpWcfServiceApplicationTemplate\src\Contracts\obj\Debug\Contracts.dll
+C:\git\FSharpWcfServiceApplicationTemplate\src\Contracts\obj\Debug\Contracts.pdb

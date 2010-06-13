@@ -5,7 +5,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FSharpWcfServiceApplication
 EndProject
 Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Services", "src\Services\Services.fsproj", "{88EB4774-51A2-4BF7-874C-009A0C3B3ADD}"
 EndProject
-Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "DataContracts", "src\DataContracts\DataContracts.fsproj", "{2BA2E92E-A3FB-4999-9FA2-0F9CA749A76B}"
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Contracts", "src\Contracts\Contracts.fsproj", "{2BA2E92E-A3FB-4999-9FA2-0F9CA749A76B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

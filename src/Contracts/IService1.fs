@@ -1,4 +1,4 @@
-﻿namespace FSharpWcfServiceApplicationTemplate
+﻿namespace FSharpWcfServiceApplicationTemplate.Contracts
 
 open System.Runtime.Serialization
 open System.ServiceModel

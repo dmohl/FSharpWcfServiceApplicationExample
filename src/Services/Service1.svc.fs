@@ -1,6 +1,7 @@
 ﻿namespace FSharpWcfServiceApplicationTemplate
 
 open System
+open FSharpWcfServiceApplicationTemplate.Contracts
 
 type Service1() =
     interface IService1 with

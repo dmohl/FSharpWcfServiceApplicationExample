@@ -2,8 +2,8 @@ C:\git\FSharpWcfServiceApplicationTemplate\src\Services\obj\Debug\ResolveAssembl
 C:\git\FSharpWcfServiceApplicationTemplate\src\Services\bin\Debug\Services.XML
 C:\git\FSharpWcfServiceApplicationTemplate\src\Services\bin\Debug\Services.dll
 C:\git\FSharpWcfServiceApplicationTemplate\src\Services\bin\Debug\Services.pdb
-C:\git\FSharpWcfServiceApplicationTemplate\src\Services\bin\Debug\DataContracts.dll
-C:\git\FSharpWcfServiceApplicationTemplate\src\Services\bin\Debug\DataContracts.pdb
-C:\git\FSharpWcfServiceApplicationTemplate\src\Services\bin\Debug\DataContracts.xml
 C:\git\FSharpWcfServiceApplicationTemplate\src\Services\obj\Debug\Services.dll
 C:\git\FSharpWcfServiceApplicationTemplate\src\Services\obj\Debug\Services.pdb
+C:\git\FSharpWcfServiceApplicationTemplate\src\Services\bin\Debug\Contracts.dll
+C:\git\FSharpWcfServiceApplicationTemplate\src\Services\bin\Debug\Contracts.pdb
+C:\git\FSharpWcfServiceApplicationTemplate\src\Services\bin\Debug\Contracts.xml

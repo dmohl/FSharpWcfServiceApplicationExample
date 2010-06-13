@@ -41,12 +41,11 @@
     <Reference Include="System.ServiceModel" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="IService1.fs" />
     <Compile Include="Service1.svc.fs" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\DataContracts\DataContracts.fsproj">
-      <Name>DataContracts</Name>
+    <ProjectReference Include="..\Contracts\Contracts.fsproj">
+      <Name>Contracts</Name>
       <Project>{2ba2e92e-a3fb-4999-9fa2-0f9ca749a76b}</Project>
       <Private>True</Private>
     </ProjectReference>

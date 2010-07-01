@@ -1,2 +1,4 @@
 C:\Users\dmohl.SOMMET\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Daniel Mohl\VSIX\1.0\\extension.vsixmanifest
 C:\Users\dmohl.SOMMET\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Daniel Mohl\VSIX\1.0\ProjectTemplates\\FSharpWCFTemplate.zip
+C:\Users\dmohl.SOMMET\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Daniel Mohl\FSharpWcfServiceApplicationTemplate\1.0\\extension.vsixmanifest
+C:\Users\dmohl.SOMMET\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Daniel Mohl\FSharpWcfServiceApplicationTemplate\1.0\ProjectTemplates\\FSharpWCFTemplate.zip

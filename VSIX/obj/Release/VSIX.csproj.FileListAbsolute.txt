@@ -1,0 +1,7 @@
+C:\git\FSharpWcfServiceApplicationExample\VSIX\bin\Release\ProjectTemplates\FSharpWCFTemplate.zip
+C:\git\FSharpWcfServiceApplicationExample\VSIX\bin\Release\FSharpWcfServiceApplication.vsix
+C:\git\FSharpWcfServiceApplicationExample\VSIX\bin\Release\extension.vsixmanifest
+C:\git\FSharpWcfServiceApplicationExample\VSIX\obj\Release\ResolveAssemblyReference.cache
+C:\git\FSharpWcfServiceApplicationExample\VSIX\obj\Release\FSharpWcfServiceApplication.dll
+C:\git\FSharpWcfServiceApplicationExample\VSIX\obj\Release\FSharpWcfServiceApplication.pdb
+C:\git\FSharpWcfServiceApplicationExample\VSIX\obj\Release\extension.vsixmanifest

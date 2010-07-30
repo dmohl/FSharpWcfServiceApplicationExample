@@ -5,3 +5,10 @@ C:\git\FSharpWcfServiceApplicationExample\VSIX\obj\Release\ResolveAssemblyRefere
 C:\git\FSharpWcfServiceApplicationExample\VSIX\obj\Release\FSharpWcfServiceApplication.dll
 C:\git\FSharpWcfServiceApplicationExample\VSIX\obj\Release\FSharpWcfServiceApplication.pdb
 C:\git\FSharpWcfServiceApplicationExample\VSIX\obj\Release\extension.vsixmanifest
+C:\git\FSharpWcfServiceApplicationTemplate\VSIX\bin\Release\FSharpWcfServiceApplication.vsix
+C:\git\FSharpWcfServiceApplicationTemplate\VSIX\bin\Release\extension.vsixmanifest
+C:\git\FSharpWcfServiceApplicationTemplate\VSIX\obj\Release\ResolveAssemblyReference.cache
+C:\git\FSharpWcfServiceApplicationTemplate\VSIX\obj\Release\FSharpWcfServiceApplication.dll
+C:\git\FSharpWcfServiceApplicationTemplate\VSIX\obj\Release\FSharpWcfServiceApplication.pdb
+C:\git\FSharpWcfServiceApplicationTemplate\VSIX\obj\Release\extension.vsixmanifest
+C:\git\FSharpWcfServiceApplicationTemplate\VSIX\bin\Release\ProjectTemplates\FSharpWCF.zip

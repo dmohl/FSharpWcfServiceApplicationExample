@@ -1,0 +1,10 @@
+C:\git\FSharpWcfServiceApplicationTemplate\src\Web\bin\Web.dll
+C:\git\FSharpWcfServiceApplicationTemplate\src\Web\bin\Web.pdb
+C:\git\FSharpWcfServiceApplicationTemplate\src\Web\bin\Contracts.dll
+C:\git\FSharpWcfServiceApplicationTemplate\src\Web\bin\Services.dll
+C:\git\FSharpWcfServiceApplicationTemplate\src\Web\bin\Contracts.pdb
+C:\git\FSharpWcfServiceApplicationTemplate\src\Web\bin\Services.pdb
+C:\git\FSharpWcfServiceApplicationTemplate\src\Web\bin\Services.xml
+C:\git\FSharpWcfServiceApplicationTemplate\src\Web\obj\Release\ResolveAssemblyReference.cache
+C:\git\FSharpWcfServiceApplicationTemplate\src\Web\obj\Release\Web.dll
+C:\git\FSharpWcfServiceApplicationTemplate\src\Web\obj\Release\Web.pdb

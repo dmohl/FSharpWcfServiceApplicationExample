@@ -14,8 +14,8 @@
             <ProjectTemplateLink ProjectName="Services">
                 src\Services\MyTemplate.vstemplate
             </ProjectTemplateLink>
-            <ProjectTemplateLink ProjectName="FSharpWcfServiceApplicationTemplate">
-                src\FSharpWcfServiceApplicationTemplate\MyTemplate.vstemplate
+            <ProjectTemplateLink ProjectName="Web">
+                src\Web\MyTemplate.vstemplate
             </ProjectTemplateLink>
         </ProjectCollection>
     </TemplateContent>

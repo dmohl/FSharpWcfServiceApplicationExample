@@ -8,14 +8,14 @@
     </TemplateData>
     <TemplateContent>
         <ProjectCollection>
-            <ProjectTemplateLink ProjectName="Contracts">
-                src\Contracts\MyTemplate.vstemplate
+            <ProjectTemplateLink ProjectName="Web">
+                src\Web\MyTemplate.vstemplate
             </ProjectTemplateLink>
             <ProjectTemplateLink ProjectName="Services">
                 src\Services\MyTemplate.vstemplate
             </ProjectTemplateLink>
-            <ProjectTemplateLink ProjectName="Web">
-                src\Web\MyTemplate.vstemplate
+            <ProjectTemplateLink ProjectName="Contracts">
+                src\Contracts\MyTemplate.vstemplate
             </ProjectTemplateLink>
         </ProjectCollection>
     </TemplateContent>

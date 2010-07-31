@@ -1,11 +1,12 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Vsix xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Version="1.0.0" xmlns="http://schemas.microsoft.com/developer/vsx-schema/2010">
   <Identifier Id="FsharpWcfVSIX.Microsoft.b56accd1-10e8-425e-a822-e2f90b231b67">
-    <Name>F# WCF Service Application Template</Name>
+    <Name>F# Web Service (WSDL)</Name>
     <Author>Daniel Mohl</Author>
-    <Version>1.1</Version>
-    <Description xml:space="preserve">An F# WCF Multi-Project Template</Description>
+    <Version>1.2</Version>
+    <Description xml:space="preserve">A F# Web Service Multi-Project Template</Description>
     <Locale>1033</Locale>
+    <MoreInfoUrl>http://bloggemdano.blogspot.com/2010/06/standard-wcf-service-application.html</MoreInfoUrl>
     <SupportedProducts>
       <VisualStudio Version="10.0">
         <Edition>Ultimate</Edition>

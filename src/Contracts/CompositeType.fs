@@ -3,12 +3,11 @@
 open System.Runtime.Serialization
 open System.ServiceModel
 
+// Note: When running serialization code in partial trust, you may need to convert 
+//       this to a class with a default constructor.
 [<DataContract>]
-type CompositeType() =
-    [<DefaultValue(false)>] val mutable _boolValue : bool 
-    [<DefaultValue(false)>] val mutable _stringValue : string 
-    [<DataMember>] 
-    member x.BoolValue with get() = x._boolValue and set(value) = x._boolValue <- value
-    [<DataMember>] 
-    member x.StringValue with get() = x._stringValue and set(value) = x._stringValue <- value
+type CompositeType =
+    { [<DataMember>] mutable BoolValue : bool
+ 
+      [<DataMember>] mutable StringValue : string }
 

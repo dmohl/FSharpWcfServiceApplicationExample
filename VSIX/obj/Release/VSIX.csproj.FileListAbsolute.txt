@@ -12,3 +12,4 @@ C:\git\FSharpWcfServiceApplicationTemplate\VSIX\obj\Release\FSharpWcfServiceAppl
 C:\git\FSharpWcfServiceApplicationTemplate\VSIX\obj\Release\FSharpWcfServiceApplication.pdb
 C:\git\FSharpWcfServiceApplicationTemplate\VSIX\obj\Release\extension.vsixmanifest
 C:\git\FSharpWcfServiceApplicationTemplate\VSIX\bin\Release\ProjectTemplates\FSharpWCF.zip
+C:\git\FSharpWcfServiceApplicationTemplate\VSIX\bin\Release\FSharpWebServiceScreenShot.png

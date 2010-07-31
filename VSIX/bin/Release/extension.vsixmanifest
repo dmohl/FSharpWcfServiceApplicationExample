@@ -7,6 +7,7 @@
     <Description xml:space="preserve">A F# Web Service Multi-Project Template</Description>
     <Locale>1033</Locale>
     <MoreInfoUrl>http://bloggemdano.blogspot.com/2010/06/standard-wcf-service-application.html</MoreInfoUrl>
+    <PreviewImage>FSharpWebServiceScreenShot.png</PreviewImage>
     <SupportedProducts>
       <VisualStudio Version="10.0">
         <Edition>Ultimate</Edition>

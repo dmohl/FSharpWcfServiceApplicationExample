@@ -11,5 +11,6 @@ C:\git\FSharpWcfServiceApplicationTemplate\VSIX\obj\Release\ResolveAssemblyRefer
 C:\git\FSharpWcfServiceApplicationTemplate\VSIX\obj\Release\FSharpWcfServiceApplication.dll
 C:\git\FSharpWcfServiceApplicationTemplate\VSIX\obj\Release\FSharpWcfServiceApplication.pdb
 C:\git\FSharpWcfServiceApplicationTemplate\VSIX\obj\Release\extension.vsixmanifest
-C:\git\FSharpWcfServiceApplicationTemplate\VSIX\bin\Release\ProjectTemplates\FSharpWCF.zip
 C:\git\FSharpWcfServiceApplicationTemplate\VSIX\bin\Release\FSharpWebServiceScreenShot.png
+C:\git\FSharpWcfServiceApplicationTemplate\VSIX\bin\Release\MicrosoftPublicLicense.txt
+C:\git\FSharpWcfServiceApplicationTemplate\VSIX\bin\Release\ProjectTemplates\Service\FSharpWCF.zip

@@ -20,7 +20,7 @@
         </ProjectCollection>
     </TemplateContent>
     <WizardExtension>
-	<Assembly>TemplateWizard, Version=0.0.0.0, Culture=neutral, PublicKeyToken=ba79043a32149735</Assembly>
-	<FullClassName>TemplateWizard.TemplateWizard</FullClassName>
+	<Assembly>FSharpWcfTemplateWizard, Version=0.0.0.0, Culture=neutral, PublicKeyToken=ba79043a32149735</Assembly>
+	<FullClassName>FSharpWcfTemplateWizard.TemplateWizard</FullClassName>
     </WizardExtension>	
 </VSTemplate>

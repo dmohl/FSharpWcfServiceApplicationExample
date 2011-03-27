@@ -1,6 +1,0 @@
-C:\git\FSharpWcfServiceApplicationExample\src\Contracts\bin\Debug\Contracts.XML
-C:\git\FSharpWcfServiceApplicationExample\src\Contracts\bin\Debug\Contracts.dll
-C:\git\FSharpWcfServiceApplicationExample\src\Contracts\bin\Debug\Contracts.pdb
-C:\git\FSharpWcfServiceApplicationExample\src\Contracts\obj\Debug\ResolveAssemblyReference.cache
-C:\git\FSharpWcfServiceApplicationExample\src\Contracts\obj\Debug\Contracts.dll
-C:\git\FSharpWcfServiceApplicationExample\src\Contracts\obj\Debug\Contracts.pdb

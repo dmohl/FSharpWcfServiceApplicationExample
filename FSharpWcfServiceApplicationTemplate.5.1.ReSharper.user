@@ -12,7 +12,7 @@
       <File id="2BA2E92E-A3FB-4999-9FA2-0F9CA749A76B/f:IService1.fs" caret="0" fromTop="0" />
       <File id="2BA2E92E-A3FB-4999-9FA2-0F9CA749A76B/f:CompositeType.fs" caret="57" fromTop="0" />
       <File id="88EB4774-51A2-4BF7-874C-009A0C3B3ADD/f:Service1.svc.fs" caret="66" fromTop="2" />
-      <File id="BD7AF5DA-25B8-41FA-A0E8-7A277BD65673/f:TemplateWizard.fs" caret="2063" fromTop="45" />
+      <File id="BD7AF5DA-25B8-41FA-A0E8-7A277BD65673/f:TemplateWizard.fs" caret="33" fromTop="0" />
     </RecentFiles>
     <RecentEdits>
       <File id="FEE4B319-624C-4A9C-89BC-7E16DDBCA715/f:Service1.svc" caret="124" fromTop="0" />
@@ -20,8 +20,8 @@
       <File id="2BA2E92E-A3FB-4999-9FA2-0F9CA749A76B/f:IService1.fs" caret="55" fromTop="0" />
       <File id="2BA2E92E-A3FB-4999-9FA2-0F9CA749A76B/f:CompositeType.fs" caret="57" fromTop="0" />
       <File id="88EB4774-51A2-4BF7-874C-009A0C3B3ADD/f:Service1.svc.fs" caret="66" fromTop="2" />
-      <File id="BD7AF5DA-25B8-41FA-A0E8-7A277BD65673/f:TemplateWizard.fs" caret="1748" fromTop="12" />
-      <File id="BD7AF5DA-25B8-41FA-A0E8-7A277BD65673/f:TemplateWizard.fs" caret="10" fromTop="0" />
+      <File id="BD7AF5DA-25B8-41FA-A0E8-7A277BD65673/f:TemplateWizard.fs" caret="1757" fromTop="12" />
+      <File id="BD7AF5DA-25B8-41FA-A0E8-7A277BD65673/f:TemplateWizard.fs" caret="33" fromTop="0" />
     </RecentEdits>
   </RecentFiles>
   <NAntValidationSettings>

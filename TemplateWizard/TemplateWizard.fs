@@ -1,4 +1,4 @@
-﻿namespace TemplateWizard
+﻿namespace FSharpWcfTemplateWizard
 
 open System
 open System.Collections.Generic

@@ -20,7 +20,7 @@
   </Identifier>
   <References />
   <Content>
-    <Assembly AssemblyName="|TemplateWizard;AssemblyName|">|TemplateWizard|</Assembly>
+    <Assembly AssemblyName="|FSharpWcfTemplateWizard;AssemblyName|">|FSharpWcfTemplateWizard|</Assembly>
     <ProjectTemplate>ProjectTemplates</ProjectTemplate>
   </Content>
 </Vsix>

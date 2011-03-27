@@ -8,9 +8,9 @@
     <ProjectGuid>{bd7af5da-25b8-41fa-a0e8-7a277bd65673}</ProjectGuid>
     <OutputType>Library</OutputType>
     <RootNamespace>TemplateWizard</RootNamespace>
-    <AssemblyName>TemplateWizard</AssemblyName>
+    <AssemblyName>FSharpWcfTemplateWizard</AssemblyName>
     <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
-    <Name>TemplateWizard</Name>
+    <Name>FSharpWcfTemplateWizard</Name>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <DebugSymbols>true</DebugSymbols>

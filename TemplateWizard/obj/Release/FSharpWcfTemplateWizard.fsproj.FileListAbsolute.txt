@@ -1,0 +1,6 @@
+C:\git\FSharpWcfServiceApplicationExample\TemplateWizard\bin\Release\TemplateWizard.XML
+C:\git\FSharpWcfServiceApplicationExample\TemplateWizard\bin\Release\FSharpWcfTemplateWizard.dll
+C:\git\FSharpWcfServiceApplicationExample\TemplateWizard\bin\Release\FSharpWcfTemplateWizard.pdb
+C:\git\FSharpWcfServiceApplicationExample\TemplateWizard\obj\Release\ResolveAssemblyReference.cache
+C:\git\FSharpWcfServiceApplicationExample\TemplateWizard\obj\Release\FSharpWcfTemplateWizard.dll
+C:\git\FSharpWcfServiceApplicationExample\TemplateWizard\obj\Release\FSharpWcfTemplateWizard.pdb

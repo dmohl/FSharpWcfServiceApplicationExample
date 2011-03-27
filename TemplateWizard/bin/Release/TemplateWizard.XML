@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <doc>
-<assembly><name>TemplateWizard</name></assembly>
+<assembly><name>FSharpWcfTemplateWizard</name></assembly>
 <members>
 <member name="">
 
@@ -38,7 +38,7 @@
 <member name="">
 
 </member>
-<member name="T:TemplateWizard.TemplateWizardMod">
+<member name="T:FSharpWcfTemplateWizard.TemplateWizardMod">
 
 </member>
 </members>

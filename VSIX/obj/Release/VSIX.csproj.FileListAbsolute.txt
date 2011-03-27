@@ -16,6 +16,5 @@ C:\git\FSharpWcfServiceApplicationTemplate\VSIX\bin\Release\ProjectTemplates\Ser
 C:\git\FSharpWcfServiceApplicationExample\VSIX\bin\Release\FSharpWebServiceScreenShot.png
 C:\git\FSharpWcfServiceApplicationExample\VSIX\bin\Release\MicrosoftPublicLicense.txt
 C:\git\FSharpWcfServiceApplicationExample\VSIX\bin\Release\ProjectTemplates\Service\FSharpWCF.zip
-C:\git\FSharpWcfServiceApplicationExample\VSIX\bin\Release\TemplateWizard.dll
-C:\git\FSharpWcfServiceApplicationExample\VSIX\bin\Release\TemplateWizard.pdb
-C:\git\FSharpWcfServiceApplicationExample\VSIX\bin\Release\TemplateWizard.xml
+C:\git\FSharpWcfServiceApplicationExample\VSIX\bin\Release\FSharpWcfTemplateWizard.dll
+C:\git\FSharpWcfServiceApplicationExample\VSIX\bin\Release\FSharpWcfTemplateWizard.pdb

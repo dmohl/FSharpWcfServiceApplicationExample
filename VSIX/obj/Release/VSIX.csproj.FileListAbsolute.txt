@@ -1,4 +1,3 @@
-C:\git\FSharpWcfServiceApplicationExample\VSIX\bin\Release\ProjectTemplates\FSharpWCFTemplate.zip
 C:\git\FSharpWcfServiceApplicationExample\VSIX\bin\Release\FSharpWcfServiceApplication.vsix
 C:\git\FSharpWcfServiceApplicationExample\VSIX\bin\Release\extension.vsixmanifest
 C:\git\FSharpWcfServiceApplicationExample\VSIX\obj\Release\ResolveAssemblyReference.cache
@@ -14,3 +13,9 @@ C:\git\FSharpWcfServiceApplicationTemplate\VSIX\obj\Release\extension.vsixmanife
 C:\git\FSharpWcfServiceApplicationTemplate\VSIX\bin\Release\FSharpWebServiceScreenShot.png
 C:\git\FSharpWcfServiceApplicationTemplate\VSIX\bin\Release\MicrosoftPublicLicense.txt
 C:\git\FSharpWcfServiceApplicationTemplate\VSIX\bin\Release\ProjectTemplates\Service\FSharpWCF.zip
+C:\git\FSharpWcfServiceApplicationExample\VSIX\bin\Release\FSharpWebServiceScreenShot.png
+C:\git\FSharpWcfServiceApplicationExample\VSIX\bin\Release\MicrosoftPublicLicense.txt
+C:\git\FSharpWcfServiceApplicationExample\VSIX\bin\Release\ProjectTemplates\Service\FSharpWCF.zip
+C:\git\FSharpWcfServiceApplicationExample\VSIX\bin\Release\TemplateWizard.dll
+C:\git\FSharpWcfServiceApplicationExample\VSIX\bin\Release\TemplateWizard.pdb
+C:\git\FSharpWcfServiceApplicationExample\VSIX\bin\Release\TemplateWizard.xml

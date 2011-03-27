@@ -20,3 +20,9 @@ C:\Users\dmohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Daniel Mo
 C:\Users\dmohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Daniel Mohl\F# and C# Web Service (ASP.NET, WSDL)\1.3\\FSharpWebServiceScreenShot.png
 C:\Users\dmohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Daniel Mohl\F# and C# Web Service (ASP.NET, WSDL)\1.3\\MicrosoftPublicLicense.txt
 C:\Users\dmohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Daniel Mohl\F# and C# Web Service (ASP.NET, WSDL)\1.3\ProjectTemplates\Service\\FSharpWCF.zip
+C:\Users\dmohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Daniel Mohl\F# and C# Web Service (ASP.NET, WSDL)\1.4\\TemplateWizard.dll
+C:\Users\dmohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Daniel Mohl\F# and C# Web Service (ASP.NET, WSDL)\1.4\\extension.vsixmanifest
+C:\Users\dmohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Daniel Mohl\F# and C# Web Service (ASP.NET, WSDL)\1.4\\FSharpWebServiceScreenShot.png
+C:\Users\dmohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Daniel Mohl\F# and C# Web Service (ASP.NET, WSDL)\1.4\\MicrosoftPublicLicense.txt
+C:\Users\dmohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Daniel Mohl\F# and C# Web Service (ASP.NET, WSDL)\1.4\ProjectTemplates\Service\\FSharpWCF.zip
+C:\Users\dmohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Daniel Mohl\F# and C# Web Service (ASP.NET, WSDL)\1.4\\TemplateWizard.pdb

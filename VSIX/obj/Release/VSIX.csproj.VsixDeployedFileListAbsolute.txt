@@ -34,3 +34,13 @@ C:\Users\Daniel Mohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Dan
 C:\Users\Daniel Mohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Daniel Mohl\F# and C# Web Service (ASP.NET, WSDL)\1.5\\MicrosoftPublicLicense.txt
 C:\Users\Daniel Mohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Daniel Mohl\F# and C# Web Service (ASP.NET, WSDL)\1.5\ProjectTemplates\Service\\FSharpWCF.zip
 C:\Users\Daniel Mohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Daniel Mohl\F# and C# Web Service (ASP.NET, WSDL)\1.5\\FSharpWcfTemplateWizard.pdb
+C:\Users\Daniel Mohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Daniel Mohl\F# and C# Web Service (ASP.NET, WSDL)\1.6\\FSharpWcfTemplateWizard.dll
+C:\Users\Daniel Mohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Daniel Mohl\F# and C# Web Service (ASP.NET, WSDL)\1.6\\extension.vsixmanifest
+C:\Users\Daniel Mohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Daniel Mohl\F# and C# Web Service (ASP.NET, WSDL)\1.6\\FSharpWebServiceScreenShot.png
+C:\Users\Daniel Mohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Daniel Mohl\F# and C# Web Service (ASP.NET, WSDL)\1.6\\MicrosoftPublicLicense.txt
+C:\Users\Daniel Mohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Daniel Mohl\F# and C# Web Service (ASP.NET, WSDL)\1.6\ProjectTemplates\Service\\FSharpWCF.zip
+C:\Users\Daniel Mohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Daniel Mohl\F# and C# Web Service (ASP.NET, WSDL)\1.6\\EnvDTE.dll
+C:\Users\Daniel Mohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Daniel Mohl\F# and C# Web Service (ASP.NET, WSDL)\1.6\\VSLangProj.dll
+C:\Users\Daniel Mohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Daniel Mohl\F# and C# Web Service (ASP.NET, WSDL)\1.6\\stdole.dll
+C:\Users\Daniel Mohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Daniel Mohl\F# and C# Web Service (ASP.NET, WSDL)\1.6\\FSharpWcfTemplateWizard.pdb
+C:\Users\Daniel Mohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Daniel Mohl\F# and C# Web Service (ASP.NET, WSDL)\1.6\\FSharp.Core.dll

@@ -4,3 +4,7 @@ C:\git\FSharpWcfServiceApplicationExample\TemplateWizard\bin\Release\FSharpWcfTe
 C:\git\FSharpWcfServiceApplicationExample\TemplateWizard\obj\Release\ResolveAssemblyReference.cache
 C:\git\FSharpWcfServiceApplicationExample\TemplateWizard\obj\Release\FSharpWcfTemplateWizard.dll
 C:\git\FSharpWcfServiceApplicationExample\TemplateWizard\obj\Release\FSharpWcfTemplateWizard.pdb
+C:\git\FSharpWcfServiceApplicationExample\TemplateWizard\bin\Release\EnvDTE.dll
+C:\git\FSharpWcfServiceApplicationExample\TemplateWizard\bin\Release\VSLangProj.dll
+C:\git\FSharpWcfServiceApplicationExample\TemplateWizard\bin\Release\FSharp.Core.dll
+C:\git\FSharpWcfServiceApplicationExample\TemplateWizard\bin\Release\FSharp.Core.xml

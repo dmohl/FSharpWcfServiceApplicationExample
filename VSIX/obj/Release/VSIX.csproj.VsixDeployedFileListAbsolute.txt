@@ -64,3 +64,13 @@ C:\Users\Daniel Mohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Dan
 C:\Users\Daniel Mohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Daniel Mohl\F# and C# Web Service (ASP.NET, WSDL)\1.8\\VSLangProj.dll
 C:\Users\Daniel Mohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Daniel Mohl\F# and C# Web Service (ASP.NET, WSDL)\1.8\\stdole.dll
 C:\Users\Daniel Mohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Daniel Mohl\F# and C# Web Service (ASP.NET, WSDL)\1.8\\FSharpWcfTemplateWizard.pdb
+C:\Users\Daniel Mohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Daniel Mohl\F# and C# Web Service (ASP.NET, WSDL)\1.9\\FSharpWcfTemplateWizard.dll
+C:\Users\Daniel Mohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Daniel Mohl\F# and C# Web Service (ASP.NET, WSDL)\1.9\\extension.vsixmanifest
+C:\Users\Daniel Mohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Daniel Mohl\F# and C# Web Service (ASP.NET, WSDL)\1.9\\FSharpWebServiceScreenShot.png
+C:\Users\Daniel Mohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Daniel Mohl\F# and C# Web Service (ASP.NET, WSDL)\1.9\\MicrosoftPublicLicense.txt
+C:\Users\Daniel Mohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Daniel Mohl\F# and C# Web Service (ASP.NET, WSDL)\1.9\ProjectTemplates\Service\\FSharpWCF.zip
+C:\Users\Daniel Mohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Daniel Mohl\F# and C# Web Service (ASP.NET, WSDL)\1.9\\EnvDTE.dll
+C:\Users\Daniel Mohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Daniel Mohl\F# and C# Web Service (ASP.NET, WSDL)\1.9\\FSharp.Core.dll
+C:\Users\Daniel Mohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Daniel Mohl\F# and C# Web Service (ASP.NET, WSDL)\1.9\\VSLangProj.dll
+C:\Users\Daniel Mohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Daniel Mohl\F# and C# Web Service (ASP.NET, WSDL)\1.9\\stdole.dll
+C:\Users\Daniel Mohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Daniel Mohl\F# and C# Web Service (ASP.NET, WSDL)\1.9\\FSharpWcfTemplateWizard.pdb

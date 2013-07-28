@@ -8,3 +8,13 @@ C:\git\FSharpWcfServiceApplicationExample\TemplateWizard\bin\Release\VSLangProj.
 C:\git\FSharpWcfServiceApplicationExample\TemplateWizard\bin\Release\FSharp.Core.dll
 C:\git\FSharpWcfServiceApplicationExample\TemplateWizard\bin\Release\FSharp.Core.xml
 C:\git\FSharpWcfServiceApplicationExample\TemplateWizard\obj\Release\FSharpWcfTemplateWizard.fsprojResolveAssemblyReference.cache
+C:\Users\dmohl\Documents\GitHub\FSharpWcfServiceApplicationExample\TemplateWizard\bin\Release\TemplateWizard.XML
+C:\Users\dmohl\Documents\GitHub\FSharpWcfServiceApplicationExample\TemplateWizard\obj\Release\FSharpWcfTemplateWizard.fsprojResolveAssemblyReference.cache
+C:\Users\dmohl\Documents\GitHub\FSharpWcfServiceApplicationExample\TemplateWizard\obj\Release\FSharpWcfTemplateWizard.dll
+C:\Users\dmohl\Documents\GitHub\FSharpWcfServiceApplicationExample\TemplateWizard\obj\Release\FSharpWcfTemplateWizard.pdb
+C:\Users\dmohl\Documents\GitHub\FSharpWcfServiceApplicationExample\TemplateWizard\bin\Release\FSharpWcfTemplateWizard.dll
+C:\Users\dmohl\Documents\GitHub\FSharpWcfServiceApplicationExample\TemplateWizard\bin\Release\FSharpWcfTemplateWizard.pdb
+C:\Users\dmohl\Documents\GitHub\FSharpWcfServiceApplicationExample\TemplateWizard\bin\Release\EnvDTE.dll
+C:\Users\dmohl\Documents\GitHub\FSharpWcfServiceApplicationExample\TemplateWizard\bin\Release\FSharp.Core.dll
+C:\Users\dmohl\Documents\GitHub\FSharpWcfServiceApplicationExample\TemplateWizard\bin\Release\VSLangProj.dll
+C:\Users\dmohl\Documents\GitHub\FSharpWcfServiceApplicationExample\TemplateWizard\bin\Release\FSharp.Core.xml

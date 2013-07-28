@@ -18,3 +18,14 @@ C:\git\FSharpWcfServiceApplicationExample\VSIX\bin\Release\ProjectTemplates\Serv
 C:\git\FSharpWcfServiceApplicationExample\VSIX\bin\Release\FSharpWcfTemplateWizard.dll
 C:\git\FSharpWcfServiceApplicationExample\VSIX\bin\Release\FSharpWcfTemplateWizard.pdb
 C:\git\FSharpWcfServiceApplicationExample\VSIX\obj\Release\VSIX.csprojResolveAssemblyReference.cache
+C:\Users\dmohl\Documents\GitHub\FSharpWcfServiceApplicationExample\VSIX\bin\Release\FSharpWebServiceScreenShot.png
+C:\Users\dmohl\Documents\GitHub\FSharpWcfServiceApplicationExample\VSIX\bin\Release\MicrosoftPublicLicense.txt
+C:\Users\dmohl\Documents\GitHub\FSharpWcfServiceApplicationExample\VSIX\bin\Release\ProjectTemplates\Service\FSharpWCF.zip
+C:\Users\dmohl\Documents\GitHub\FSharpWcfServiceApplicationExample\VSIX\bin\Release\FSharpWcfServiceApplication.vsix
+C:\Users\dmohl\Documents\GitHub\FSharpWcfServiceApplicationExample\VSIX\bin\Release\extension.vsixmanifest
+C:\Users\dmohl\Documents\GitHub\FSharpWcfServiceApplicationExample\VSIX\bin\Release\FSharpWcfTemplateWizard.dll
+C:\Users\dmohl\Documents\GitHub\FSharpWcfServiceApplicationExample\VSIX\bin\Release\FSharpWcfTemplateWizard.pdb
+C:\Users\dmohl\Documents\GitHub\FSharpWcfServiceApplicationExample\VSIX\obj\Release\VSIX.csprojResolveAssemblyReference.cache
+C:\Users\dmohl\Documents\GitHub\FSharpWcfServiceApplicationExample\VSIX\obj\Release\FSharpWcfServiceApplication.dll
+C:\Users\dmohl\Documents\GitHub\FSharpWcfServiceApplicationExample\VSIX\obj\Release\FSharpWcfServiceApplication.pdb
+C:\Users\dmohl\Documents\GitHub\FSharpWcfServiceApplicationExample\VSIX\obj\Release\extension.vsixmanifest
